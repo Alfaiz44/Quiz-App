@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+body{
+  height: 100vh;
+  background-image: linear-gradient(orange,white,green);
+}
+.container .index{
+  margin: auto;
+  font-size: 18px;
+}
